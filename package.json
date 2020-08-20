@@ -13,7 +13,7 @@
     "test": "npm run lint"
   },
   "keywords": [],
-  "author": "Mate Academy",
+  "author": "Panasiuk Yuriy",
   "license": "GPL-3.0",
   "devDependencies": {
     "@mate-academy/eslint-config": "*",
